@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 const Navbar = () => {
+    
     return (
         <header className="flex items-center justify-between px-6 py-3 bg-[#0d0d0d] text-white border-b border-[#222]">
 
